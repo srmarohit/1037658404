@@ -5,4 +5,5 @@ php:
 
 script:
  - php HolaQuiz.php
+ - php HolaProfesor.php
  
